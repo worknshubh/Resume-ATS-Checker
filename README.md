@@ -1,16 +1,45 @@
-# React + Vite
+# 🚀 Resume ATS Checker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A smart web application that analyzes resumes and evaluates how well they perform against **Applicant Tracking Systems (ATS)**.  
+It helps users improve their chances of getting shortlisted by providing clear, actionable insights.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 📄 Upload Resume (PDF)
+- 🔍 ATS Score Analysis
+- 🧠 Keyword Optimization Check
+- 📊 Smart Feedback & Suggestions
+- ⚡ Fast, Clean, and Responsive UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 💡 How It Works
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Upload your resume  
+2. The system scans it using ATS-based logic  
+3. Matches keywords and evaluates formatting  
+4. Generates a score with improvement suggestions  
+
+---
+
+## 🎯 Future Improvements
+
+- 🔗 Job Description Matching  
+- 📈 Advanced Analytics Dashboard  
+- 🌍 Multi-language Support  
+
+---
+
+## 👨‍💻 Author
+
+**Shubham Raj**  
+📧 worknshubh@gmail.com  
+🔗 https://github.com/Generic77742  
+
+---
+
+## ⭐ Support
+
+If you find this project useful, consider giving it a ⭐ on GitHub!
