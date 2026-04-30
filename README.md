@@ -36,7 +36,7 @@ It helps users improve their chances of getting shortlisted by providing clear, 
 
 **Shubham Raj**  
 📧 worknshubh@gmail.com  
-🔗 https://github.com/Generic77742  
+🔗 https://github.com/worknshubh  
 
 ---
 
